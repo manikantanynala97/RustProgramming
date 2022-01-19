@@ -1,4 +1,4 @@
 fn main()
 {
-   println!("WELCOME TO RUST PROGRAMMING") 
+   println!("WELCOME TO RUST PROGRAMMING");
 }
